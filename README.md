@@ -12,3 +12,4 @@ Pedaling Class101 외주 프로젝트
 4. 포스팅별 전체댓글 페이지 구현.
 
 #사진
+1. NewsFeed Pics1~8
